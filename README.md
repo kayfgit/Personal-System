@@ -10,8 +10,6 @@ It's an app based on the Solo Leveling system, with nothing of that "Defeat the 
 
 - Make the penalties work when you fail the quest
 
-- Fix the stats screen
-
 - Make it so there is a hidden achievement that allows you to get the purple theme. Write something like "You need to push beyond your limits to get a different theme"
 
 - Make it prettier and more accurate to the system of Solo Leveling.
@@ -43,6 +41,8 @@ It's an app based on the Solo Leveling system, with nothing of that "Defeat the 
 - Have the purple version that you can activate in the settings (Because it's purple and really cool).
 
 - Add notification settings
+
+- Fix the stats screen
 
 ## END TODOS:
 
