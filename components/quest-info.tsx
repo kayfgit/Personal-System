@@ -395,59 +395,6 @@ const QuestInfo: React.FC<QuestInfoProps> = ({
           </View>
         )}
       </ScrollView>
-
-      <View
-        style={{
-          position: "absolute",
-          top: 0,
-          left: 0,
-          width: 32,
-          height: 32,
-          borderTopWidth: 2,
-          borderLeftWidth: 2,
-          borderColor: theme.primary + "80",
-          borderTopLeftRadius: 16,
-        }}
-      />
-      <View
-        style={{
-          position: "absolute",
-          top: 0,
-          right: 0,
-          width: 32,
-          height: 32,
-          borderTopWidth: 2,
-          borderRightWidth: 2,
-          borderColor: theme.primary + "80",
-          borderTopRightRadius: 16,
-        }}
-      />
-      <View
-        style={{
-          position: "absolute",
-          bottom: 0,
-          left: 0,
-          width: 32,
-          height: 32,
-          borderBottomWidth: 2,
-          borderLeftWidth: 2,
-          borderColor: theme.primary + "80",
-          borderBottomLeftRadius: 16,
-        }}
-      />
-      <View
-        style={{
-          position: "absolute",
-          bottom: 0,
-          right: 0,
-          width: 32,
-          height: 32,
-          borderBottomWidth: 2,
-          borderRightWidth: 2,
-          borderColor: theme.primary + "80",
-          borderBottomRightRadius: 16,
-        }}
-      />
     </View>
   );
 };
